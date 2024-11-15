@@ -1,0 +1,6 @@
+Accident ID,Date,Location,Accident Severity,Vehicle Type,Casualties,Weather Conditions
+201,2024-08-01,City A,Severe,Car,3,Clear
+202,2024-08-02,City B,Moderate,Truck,1,Rainy
+203,2024-08-03,City C,Minor,Motorbike,0,Clear
+204,2024-08-04,City D,Severe,Bus,5,Foggy
+205,2024-08-05,City E,Minor,Bicycle,0,Clear
